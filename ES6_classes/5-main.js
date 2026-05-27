@@ -9,5 +9,5 @@ try {
     new TestBuilding(200)
 }
 catch (err) {
-    console.log(err.message);
+    console.log(err);
 }
